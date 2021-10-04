@@ -1,0 +1,26 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "main": "binarysearch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/raginik0311/capg_mern_training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/raginik0311/capg_mern_training/issues"
+  },
+  "homepage": "https://gitlab.com/raginik0311/capg_mern_training#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  },
+  "dependencies": {
+    "yarn": "^1.22.15"
+  },
+  "description": ""
+}
